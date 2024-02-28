@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|c:\\users\\hp\\onedrive\\desktop\\sq021\\week 2 - class exercise\\week 2 - class exercise\\delegatecalculatorexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|solutionrelative:week 2 - class exercise\\delegatecalculatorexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|c:\\users\\hp\\onedrive\\desktop\\sq021\\week 2 - class exercise\\week 2 - class exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|solutionrelative:week 2 - class exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|c:\\users\\hp\\onedrive\\desktop\\sq021\\week 2 - class exercise\\week 2 - class exercise\\arrayexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|solutionrelative:week 2 - class exercise\\arrayexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|c:\\users\\hp\\onedrive\\desktop\\sq021\\week 2 - class exercise\\week 2 - class exercise\\week 2 - class exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|solutionrelative:week 2 - class exercise\\week 2 - class exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|c:\\users\\hp\\onedrive\\desktop\\sq021\\week 2 - class exercise\\week 2 - class exercise\\class for week2_day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BB03A9-7FAD-421F-9020-64B7B6C14B21}|WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj|solutionrelative:week 2 - class exercise\\class for week2_day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelegateCalculatorExample.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\DelegateCalculatorExample.cs",
+              "RelativeDocumentMoniker": "WEEK 2 - CLASS EXERCISE\\DelegateCalculatorExample.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\DelegateCalculatorExample.cs*",
+              "RelativeToolTip": "WEEK 2 - CLASS EXERCISE\\DelegateCalculatorExample.cs*",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:44:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayExamples.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\ArrayExamples.cs",
+              "RelativeDocumentMoniker": "WEEK 2 - CLASS EXERCISE\\ArrayExamples.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\ArrayExamples.cs",
+              "RelativeToolTip": "WEEK 2 - CLASS EXERCISE\\ArrayExamples.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:53:50.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WEEK 2 - CLASS EXERCISE.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj",
+              "RelativeDocumentMoniker": "WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj",
+              "RelativeToolTip": "WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T09:18:40.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class FOR WEEK2_DAY1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\Class FOR WEEK2_DAY1.cs",
+              "RelativeDocumentMoniker": "WEEK 2 - CLASS EXERCISE\\Class FOR WEEK2_DAY1.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\Class FOR WEEK2_DAY1.cs",
+              "RelativeToolTip": "WEEK 2 - CLASS EXERCISE\\Class FOR WEEK2_DAY1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:18:28.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\Program.cs",
+              "RelativeDocumentMoniker": "WEEK 2 - CLASS EXERCISE\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\SQ021\\WEEK 2 - CLASS EXERCISE\\WEEK 2 - CLASS EXERCISE\\Program.cs",
+              "RelativeToolTip": "WEEK 2 - CLASS EXERCISE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:01:29.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\bin\Debug\net8.0\WEEK 2 - CLASS EXERCISE.exe
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\bin\Debug\net8.0\WEEK 2 - CLASS EXERCISE.deps.json
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\bin\Debug\net8.0\WEEK 2 - CLASS EXERCISE.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\bin\Debug\net8.0\WEEK 2 - CLASS EXERCISE.dll
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\bin\Debug\net8.0\WEEK 2 - CLASS EXERCISE.pdb
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\WEEK 2 - CLASS EXERCISE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\WEEK 2 - CLASS EXERCISE.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\WEEK 2 - CLASS EXERCISE.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\WEEK 2 - CLASS EXERCISE.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\WEEK 2 - CLASS EXERCISE.dll
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\refint\WEEK 2 - CLASS EXERCISE.dll
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\WEEK 2 - CLASS EXERCISE.pdb
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\WEEK 2 - CLASS EXERCISE.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\SQ021\WEEK 2 - CLASS EXERCISE\WEEK 2 - CLASS EXERCISE\obj\Debug\net8.0\ref\WEEK 2 - CLASS EXERCISE.dll
