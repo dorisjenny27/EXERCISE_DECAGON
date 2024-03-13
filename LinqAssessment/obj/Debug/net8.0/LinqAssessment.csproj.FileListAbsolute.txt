@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\bin\Debug\net8.0\LinqAssessment.exe
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\bin\Debug\net8.0\LinqAssessment.deps.json
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\bin\Debug\net8.0\LinqAssessment.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\bin\Debug\net8.0\LinqAssessment.dll
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\bin\Debug\net8.0\LinqAssessment.pdb
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\LinqAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\LinqAssessment.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\LinqAssessment.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\LinqAssessment.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\LinqAssessment.dll
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\refint\LinqAssessment.dll
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\LinqAssessment.pdb
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\LinqAssessment.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\ASSIGNMENTS\LinqAssessment\LinqAssessment\obj\Debug\net8.0\ref\LinqAssessment.dll
