@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|c:\\users\\hp\\onedrive\\desktop\\assignments\\calculator2\\calculator2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|c:\\users\\hp\\onedrive\\desktop\\assignments\\calculator2\\calculator2\\calculator2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|solutionrelative:calculator2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|c:\\users\\hp\\onedrive\\desktop\\assignments\\calculator2\\calculator2\\grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|solutionrelative:grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|c:\\users\\hp\\onedrive\\desktop\\assignments\\calculator2\\calculator2\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|c:\\users\\hp\\onedrive\\desktop\\assignments\\calculator2\\calculator2\\gradepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CFE087-C414-48FC-9D45-DF67B0E8623D}|Calculator2.csproj|solutionrelative:gradepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator2.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\Calculator2.csproj",
+              "RelativeDocumentMoniker": "Calculator2.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\Calculator2.csproj",
+              "RelativeToolTip": "Calculator2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T11:55:30.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\GradeManager.cs",
+              "RelativeDocumentMoniker": "GradeManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\GradeManager.cs",
+              "RelativeToolTip": "GradeManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:13:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GradePoint.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\GradePoint.cs",
+              "RelativeDocumentMoniker": "GradePoint.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\GradePoint.cs",
+              "RelativeToolTip": "GradePoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:09:51.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:08:33.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:07:52.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
